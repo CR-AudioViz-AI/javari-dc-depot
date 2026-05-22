@@ -2,7 +2,7 @@
 import type { Metadata } from 'next'
 export const dynamic = 'force-dynamic'
 export const metadata: Metadata = {
-  title: 'Javari DC Depot',
+  title: 'Javari DC Depot | CR AudioViz AI — EIN 39-3646201',
   description: 'AI-powered DC Comics collectibles tracker',
 }
 export default function RootLayout({ children }: { children: React.ReactNode }) {
